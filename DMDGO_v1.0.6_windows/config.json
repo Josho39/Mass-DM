@@ -1,0 +1,13 @@
+{
+    "individual_delay": 15,
+    "rate_limit_delay": 900,
+    "offset": 400,
+    "skip_completed": true,
+    "proxy": "",
+    "remove_dead_tokens": true,
+    "remove_completed_members": true,
+    "stop_dead_tokens": true,
+    "bypass_tos": true,
+    "check_mutual": false
+
+}
